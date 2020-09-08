@@ -2,7 +2,7 @@
     <h1>{{question.label}}</h1>
     <form [formGroup]="form">
       <div class="form-group">
-        <label *ngFor="let choice of question.choices">
+        <label *ngFor="let choice of question.answers">
           <input type="radio" [value]="choice" formControlName="choice">
           <span>{{choice.value}}</span>
         </label>
