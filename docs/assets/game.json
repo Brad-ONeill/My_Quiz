@@ -1,0 +1,47 @@
+[
+  {
+    "label": "When was first Sonic the Hedgehog game released?",
+    "choices": [
+      { "value": "June 1990", "correct": false },
+      { "value": "June 1991", "correct": true },
+      { "value": "June 1992", "correct": false },
+      { "value": "June 1993", "correct": false }
+    ]
+  },
+  {
+    "label": "Complete the title... Super Mario Land 2:",
+    "choices": [
+      { "value": "Mario Returns", "correct": false },
+      { "value": "The Curse of Wario", "correct": false },
+      { "value": "6 Golden Coins", "correct": true },
+      { "value": "Return to the Mushroom Kingdom", "correct": false }
+    ]
+  },
+  {
+    "label": "How many copies of Monster Hunter World were shipped in the first 3 days?",
+    "choices": [
+      { "value": "2 million", "correct": false },
+      { "value": "3 million", "correct": false },
+      { "value": "4 million", "correct": false },
+      { "value": "5 million", "correct": true }
+    ]
+  },
+  {
+    "label": "What is the name of the character you play in The Last of Us?",
+    "choices": [
+      { "value": "Joel", "correct": true },
+      { "value": "Noel", "correct": false },
+      { "value": "Paul", "correct": false },
+      { "value": "David", "correct": false }
+    ]
+  },
+  {
+    "label": "Which famous PokéMon recently stared in his own detective feature film?",
+    "choices": [
+      { "value": "Charmander", "correct": false },
+      { "value": "Pikachu", "correct": true },
+      { "value": "Jigglypuff", "correct": false },
+      { "value": "Diglett", "correct": false }
+    ]
+  }
+]
