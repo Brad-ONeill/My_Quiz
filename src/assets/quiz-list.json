@@ -1,13 +1,13 @@
 [
   {
     "label": "Games",
-    "name": "games",
+    "name": "game",
     "description": "Questions about Games",
     "fileName": "game.json"
   },
   {
     "label": "Movies",
-    "name": "movies",
+    "name": "movie",
     "description": "Questions about Movies",
     "fileName": "movie.json"
   }
