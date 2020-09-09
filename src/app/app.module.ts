@@ -10,6 +10,8 @@ import { QuestionFormComponent } from './question-form/question-form.component';
 import { WelcomeComponent } from './welcome/welcome.component';
 import { ResultsComponent } from './results/results.component';
 
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
 const appRoutes: Routes = [
   { path: 'welcome', component: WelcomeComponent },
   { path: ':quizId', component: QuestionsComponent },
@@ -29,6 +31,7 @@ const appRoutes: Routes = [
     BrowserModule,
     HttpClientModule,
     ReactiveFormsModule,
+    BrowserAnimationsModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
