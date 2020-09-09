@@ -1,7 +1,7 @@
 [
   {
     "label": "Who drew the naked picture of Kate Winslet in Titanic?",
-    "answers": [
+    "choices": [
       { "value": "James Cameron", "correct": true },
       { "value": "Leonardo DiCaprio", "correct": false },
       { "value": "An uncredited artist", "correct": false },
@@ -10,7 +10,7 @@
   },
   {
     "label": "Which U.S film is the first to feature a toilet flushing?",
-    "answers": [
+    "choices": [
       { "value": "The Last Voyage", "correct": false },
       { "value": "The Apartment", "correct": false },
       { "value": "Psycho", "correct": true },
@@ -19,7 +19,7 @@
   },
   {
     "label": "Who's wallet is featured in Pulp Fiction",
-    "answers": [
+    "choices": [
       { "value": "John Travolta", "correct": false },
       { "value": "Samuel L. Jackson", "correct": false },
       { "value": "Bruce Willis", "correct": false },
@@ -28,7 +28,7 @@
   },
   {
     "label": "How many weeks did it take to write the script for Taxi Driver?",
-    "answers": [
+    "choices": [
       { "value": "2", "correct": true },
       { "value": "10", "correct": false },
       { "value": "16", "correct": false },
@@ -37,7 +37,7 @@
   },
   {
     "label": "How many ballons were in the Disney Pixar movie UP?",
-    "answers": [
+    "choices": [
       { "value": "5.873", "correct": false },
       { "value": "10,297", "correct": true },
       { "value": "12,000", "correct": false },
