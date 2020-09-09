@@ -6,9 +6,10 @@ import { AppComponent } from './app.component';
 import { QuestionFormComponent } from './question-form/question-form.component';
 import { ReactiveFormsModule } from '@angular/forms';
 import { ResultsComponent } from './results/results.component';
+import { WelcomeComponent } from './welcome/welcome.component';
 
 @NgModule({
-  declarations: [AppComponent, QuestionFormComponent, ResultsComponent],
+  declarations: [AppComponent, QuestionFormComponent, ResultsComponent, WelcomeComponent],
   imports: [BrowserModule, HttpClientModule, ReactiveFormsModule],
   providers: [],
   bootstrap: [AppComponent],
