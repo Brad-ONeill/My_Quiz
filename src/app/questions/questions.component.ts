@@ -8,8 +8,8 @@ import { Quiz, Answers, Choice, Question } from '../quiz.model';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css'],
+  templateUrl: './questions.component.html',
+  styleUrls: ['./questions.component.css'],
 })
 
 // export class AppComponent {
