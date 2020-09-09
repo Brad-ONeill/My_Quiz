@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Games",
+    "name": "games",
+    "description": "Questions about Games",
+    "fileName": "game.json"
+  },
+  {
+    "label": "Movies",
+    "name": "movies",
+    "description": "Questions about Movies",
+    "fileName": "movie.json"
+  }
+]
