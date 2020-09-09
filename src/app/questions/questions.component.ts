@@ -11,6 +11,7 @@ import { Quiz, Answers, Choice, Question } from '../quiz.model';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
 })
+
 // export class AppComponent {
 export class QuestionsComponent implements OnInit {
   quiz: Quiz;
