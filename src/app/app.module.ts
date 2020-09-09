@@ -11,6 +11,8 @@ import { WelcomeComponent } from './welcome/welcome.component';
 import { ResultsComponent } from './results/results.component';
 
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { MatCardModule } from '@angular/material/card';
+import { MatButtonModule } from '@angular/material/button';
 
 const appRoutes: Routes = [
   { path: 'welcome', component: WelcomeComponent },
@@ -32,6 +34,8 @@ const appRoutes: Routes = [
     HttpClientModule,
     ReactiveFormsModule,
     BrowserAnimationsModule,
+    MatCardModule,
+    MatButtonModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
