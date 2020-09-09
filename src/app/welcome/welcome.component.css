@@ -1,0 +1,17 @@
+div {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+button a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.card {
+  display: inline-block;
+  max-width: 300px;
+  margin: 10px;
+  border: 1px solid #0090ff;
+}
